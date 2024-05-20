@@ -1,0 +1,7 @@
+2024-05-20 17:00:35,270 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 17:00:35,566 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 17:00:35,715 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 17:00:35,831 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 17:00:40,793 - root - INFO - HTTP response code: 200
+2024-05-20 17:00:41,827 - root - INFO - Response time: -1.0326519012451172 seconds
+2024-05-20 17:00:59,816 - root - INFO - Redirected to: https://atg.party/view-article/74076/your-title-here?r=83
