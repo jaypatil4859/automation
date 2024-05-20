@@ -1,0 +1,200 @@
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+INFO:root:HTTP response code: 200
+INFO:root:Response time: -0.9861369132995605 seconds
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+INFO:root:HTTP response code: 200
+INFO:root:Response time: -1.0158681869506836 seconds
+INFO:root:Redirected to: https://atg.party/view-article/74065/your-title-here?r=83
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+INFO:root:HTTP response code: 200
+INFO:root:Response time: -1.1380267143249512 seconds
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+INFO:root:HTTP response code: 200
+INFO:root:Response time: -0.9190323352813721 seconds
+INFO:root:Redirected to: https://atg.party/view-article/74067/your-title-here?r=83
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+INFO:root:HTTP response code: 200
+INFO:root:Response time: -1.0218453407287598 seconds
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+INFO:root:HTTP response code: 200
+INFO:root:Response time: -0.9558284282684326 seconds
+INFO:root:Redirected to: https://atg.party/view-article/74069/your-title-here?r=83
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+INFO:root:HTTP response code: 200
+INFO:root:Response time: -1.038747787475586 seconds
+INFO:root:Redirected to: https://atg.party/view-article/74070/your-title-here?r=83
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+INFO:root:HTTP response code: 200
+INFO:root:Response time: -0.9380130767822266 seconds
+INFO:root:Redirected to: https://atg.party/view-article/74071/your-title-here?r=83
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+INFO:root:HTTP response code: 200
+INFO:root:Response time: -1.1012887954711914 seconds
+INFO:root:Redirected to: https://atg.party/view-article/74072/your-title-here?r=83
+2024-05-20 13:39:41,538 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 13:39:41,941 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 13:39:42,281 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 13:39:42,431 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 13:39:47,892 - root - INFO - HTTP response code: 200
+2024-05-20 13:39:49,111 - root - INFO - Response time: -1.218963861465454 seconds
+2024-05-20 13:40:04,357 - root - INFO - Redirected to: https://atg.party/view-article/74073/your-title-here?r=83
+2024-05-20 14:45:22,250 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 14:45:22,543 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:45:22,769 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:45:22,912 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 14:45:29,489 - root - INFO - HTTP response code: 200
+2024-05-20 14:45:30,609 - root - INFO - Response time: -1.1192023754119873 seconds
+2024-05-20 14:50:09,955 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 14:50:09,955 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 14:50:10,402 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:50:10,402 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:50:10,586 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:50:10,586 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:50:10,750 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 14:50:10,750 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 14:50:15,546 - root - INFO - HTTP response code: 200
+2024-05-20 14:50:15,546 - root - INFO - HTTP response code: 200
+2024-05-20 14:50:16,710 - root - INFO - Response time: -1.1622450351715088 seconds
+2024-05-20 14:50:16,710 - root - INFO - Response time: -1.1622450351715088 seconds
+2024-05-20 14:53:02,759 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 14:53:02,759 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 14:53:02,759 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 14:53:03,101 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:53:03,101 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:53:03,101 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:53:03,274 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:53:03,274 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:53:03,274 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:53:03,408 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 14:53:03,408 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 14:53:03,408 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 14:53:08,616 - root - INFO - HTTP response code: 200
+2024-05-20 14:53:08,616 - root - INFO - HTTP response code: 200
+2024-05-20 14:53:08,616 - root - INFO - HTTP response code: 200
+2024-05-20 14:53:09,750 - root - INFO - Response time: -1.1329874992370605 seconds
+2024-05-20 14:53:09,750 - root - INFO - Response time: -1.1329874992370605 seconds
+2024-05-20 14:53:09,750 - root - INFO - Response time: -1.1329874992370605 seconds
+2024-05-20 14:54:50,603 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 14:54:50,603 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 14:54:50,603 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 14:54:50,603 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 14:54:50,896 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:54:50,896 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:54:50,896 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:54:50,896 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:54:51,116 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:54:51,116 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:54:51,116 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:54:51,116 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:54:51,263 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 14:54:51,263 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 14:54:51,263 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 14:54:51,263 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 14:54:56,520 - root - INFO - HTTP response code: 200
+2024-05-20 14:54:56,520 - root - INFO - HTTP response code: 200
+2024-05-20 14:54:56,520 - root - INFO - HTTP response code: 200
+2024-05-20 14:54:56,520 - root - INFO - HTTP response code: 200
+2024-05-20 14:54:57,659 - root - INFO - Response time: -1.1391222476959229 seconds
+2024-05-20 14:54:57,659 - root - INFO - Response time: -1.1391222476959229 seconds
+2024-05-20 14:54:57,659 - root - INFO - Response time: -1.1391222476959229 seconds
+2024-05-20 14:54:57,659 - root - INFO - Response time: -1.1391222476959229 seconds
+2024-05-20 14:55:44,028 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 14:55:44,028 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 14:55:44,028 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 14:55:44,028 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 14:55:44,028 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 14:55:44,352 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:55:44,352 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:55:44,352 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:55:44,352 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:55:44,352 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:55:44,523 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:55:44,523 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:55:44,523 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:55:44,523 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:55:44,523 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:55:44,662 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 14:55:44,662 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 14:55:44,662 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 14:55:44,662 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 14:55:44,662 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 14:55:49,610 - root - INFO - HTTP response code: 200
+2024-05-20 14:55:49,610 - root - INFO - HTTP response code: 200
+2024-05-20 14:55:49,610 - root - INFO - HTTP response code: 200
+2024-05-20 14:55:49,610 - root - INFO - HTTP response code: 200
+2024-05-20 14:55:49,610 - root - INFO - HTTP response code: 200
+2024-05-20 14:55:50,645 - root - INFO - Response time: -1.0346121788024902 seconds
+2024-05-20 14:55:50,645 - root - INFO - Response time: -1.0346121788024902 seconds
+2024-05-20 14:55:50,645 - root - INFO - Response time: -1.0346121788024902 seconds
+2024-05-20 14:55:50,645 - root - INFO - Response time: -1.0346121788024902 seconds
+2024-05-20 14:55:50,645 - root - INFO - Response time: -1.0346121788024902 seconds
+2024-05-20 14:58:42,376 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 14:58:42,376 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 14:58:42,376 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 14:58:42,376 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 14:58:42,376 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 14:58:42,376 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 14:58:42,670 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:58:42,670 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:58:42,670 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:58:42,670 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:58:42,670 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:58:42,670 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:58:42,816 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:58:42,816 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:58:42,816 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:58:42,816 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:58:42,816 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:58:42,816 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 14:58:42,974 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 14:58:42,974 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 14:58:42,974 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 14:58:42,974 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 14:58:42,974 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 14:58:42,974 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 14:58:48,055 - root - INFO - HTTP response code: 200
+2024-05-20 14:58:48,055 - root - INFO - HTTP response code: 200
+2024-05-20 14:58:48,055 - root - INFO - HTTP response code: 200
+2024-05-20 14:58:48,055 - root - INFO - HTTP response code: 200
+2024-05-20 14:58:48,055 - root - INFO - HTTP response code: 200
+2024-05-20 14:58:48,055 - root - INFO - HTTP response code: 200
+2024-05-20 14:58:49,151 - root - INFO - Response time: -1.092186450958252 seconds
+2024-05-20 14:58:49,151 - root - INFO - Response time: -1.092186450958252 seconds
+2024-05-20 14:58:49,151 - root - INFO - Response time: -1.092186450958252 seconds
+2024-05-20 14:58:49,151 - root - INFO - Response time: -1.092186450958252 seconds
+2024-05-20 14:58:49,151 - root - INFO - Response time: -1.092186450958252 seconds
+2024-05-20 14:58:49,151 - root - INFO - Response time: -1.092186450958252 seconds
+2024-05-20 15:04:58,902 - WDM - INFO - ====== WebDriver manager ======
+2024-05-20 15:04:59,091 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 15:04:59,251 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-20 15:04:59,373 - WDM - INFO - Driver [/home/jay/.wdm/drivers/chromedriver/linux64/125.0.6422.60/chromedriver] found in cache
+2024-05-20 15:05:03,809 - root - INFO - HTTP response code: 200
+2024-05-20 15:05:05,109 - root - INFO - Response time: -1.2988762855529785 seconds
+2024-05-20 15:05:32,502 - root - INFO - Redirected to: https://atg.party/view-article/74074/your-title-here?r=83
